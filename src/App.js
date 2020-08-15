@@ -1,12 +1,14 @@
 import React from 'react';
 import { HashRouter, Switch, Route } from 'react-router-dom';
 import Countdown from './components/Countdown/Countdown';
+import GA from './components/GoogleAnalytics/GoogleAnalytics';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <HashRouter basename='/'>
+        { GA.init() && <GA.RouteTracker /> }
         <Switch>
           <Route exact path='/' render={(routeProps) => <Countdown forDate="Sat, 22 Aug 2020 07:00:00 GMT-0400" toDate="Sat, 22 Aug 2020 24:00:00 GMT-0400" {...routeProps} />} />
           <Route exact path='/cois' render={(routeProps) => <Countdown forDate="Sat, 22 Aug 2020 07:00:00 GMT-0400" toDate="Sat, 22 Aug 2020 24:00:00 GMT-0400" {...routeProps} />} />
