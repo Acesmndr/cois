@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
+html {
+  //VARIABLES BECAUSE NATIVE CSS IS COOL TOO
+  --bg-one: #000000;
+  --bg-two: #333e6e;
+  --bg-three: #0e9ca7;
+  --bg-panel: #fff;
+  --color-headings: #fff;
+  --color-text: #333;
+  --color-fun: #c44394;
+}
+
+body {
+  color: var(--color-headings);
+  background:
+    radial-gradient(circle farthest-side at 0% 50%,#061529 23.5%,rgba(240,166,17,0) 0)21px 30px,
+    radial-gradient(circle farthest-side at 0% 50%,#01050b 24%,rgba(240,166,17,0) 0)19px 30px,
+    linear-gradient(#061529 14%,rgba(240,166,17,0) 0, rgba(240,166,17,0) 85%,#061529 0)0 0,
+    linear-gradient(150deg,#061529 24%,#01050b 0,#01050b 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,#01050b 0,#01050b 76%,#061529 0)0 0,
+    linear-gradient(30deg,#061529 24%,#01050b 0,#01050b 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,#01050b 0,#01050b 76%,#061529 0)0 0,
+    linear-gradient(90deg,#01050b 2%,#061529 0,#061529 98%,#01050b 0%)0 0 #061529;
+  background-size: 40px 60px;
+  background-color:#282828;
+  font-family: 'Muli', sans-serif;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.link-right {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  .switch-logo {
+    filter: drop-shadow(0px 0px 16px black);
+    height: 64px;
+  }
+}
+
+h1 {
+  font-size: 75px;
+  margin: 10px;
+  font-family: 'Rowdies', sans-serif;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+}
+
+img.logo {
+  width: 400px;
+  position: absolute;
+  margin-left: -200px;
+  margin-top: -110px;
+  /* border: 2px solid white; */
+}
+
+.countdown-div {
+  width: 580px;
+  margin: auto;
+  min-height: 70vh;
+}
+
+@media screen and (max-width: 500px) {
+  .countdown-div {
+    width: inherit;
+    .countdown-wrapper {
+      padding-top: 80px;
+    } 
+  }
+}
+
+.countdown-wrapper {
+  margin-top: 200px;
+  display: flex;
+  min-height: 200px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: linear-gradient(315deg, #000000 0%, #03132e 74%);
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px 2px rgba(black, 0.30);
+  padding: 40px 40px 30px;
+}
+
+.countdown-item {
+  color: var(--color-text);
+  font-size: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 30px;
+  margin: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+@media screen and (max-width: 1366px) {
+  .countdown-item {
+    font-size: 3rem;
+  }
+}
+
+.countdown-item span {
+  color: var(--color-text);
+  font-size: 1rem;
+  padding-top: 1rem;
+  text-transform: uppercase;
+}
+
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+
+.arrow {
+  margin-top: 120px;
+}

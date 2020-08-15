@@ -1,0 +1,54 @@
+h3.vertical-timeline-element-title {
+  text-transform: uppercase;
+  margin: 8px 0;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+h4.vertical-timeline-element-subtitle {
+  margin: 0;
+  color: white;
+  background: linear-gradient(217deg, #0000006e, #0615298c);
+  border-radius: 2px;
+  padding: 4px 18px;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.vertical-timeline-element-description {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.event-logo {
+  width: inherit;
+  border-radius: 50px;
+  background: #061529;
+}
+
+h1,h3 {
+  a.schedule-link {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.channel-wrapper {
+  display: inline-block;
+  margin: 16px;
+  .channel-logo {
+    height: 76px;
+    border-radius: 16px;
+    filter: grayscale(0.6);
+    &:hover {
+      filter: grayscale(0); 
+    }
+  }
+}
