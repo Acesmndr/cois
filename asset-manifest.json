@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cois/static/css/main.b2644fec.chunk.css",
-    "main.js": "/cois/static/js/main.a71649ad.chunk.js",
-    "main.js.map": "/cois/static/js/main.a71649ad.chunk.js.map",
+    "main.js": "/cois/static/js/main.725367d6.chunk.js",
+    "main.js.map": "/cois/static/js/main.725367d6.chunk.js.map",
     "runtime-main.js": "/cois/static/js/runtime-main.c17b4a98.js",
     "runtime-main.js.map": "/cois/static/js/runtime-main.c17b4a98.js.map",
     "static/css/2.ac1ab58b.chunk.css": "/cois/static/css/2.ac1ab58b.chunk.css",
     "static/js/2.c37857d5.chunk.js": "/cois/static/js/2.c37857d5.chunk.js",
     "static/js/2.c37857d5.chunk.js.map": "/cois/static/js/2.c37857d5.chunk.js.map",
     "index.html": "/cois/index.html",
-    "precache-manifest.6de39b4fdb4f7f6577909f5ccb43f83d.js": "/cois/precache-manifest.6de39b4fdb4f7f6577909f5ccb43f83d.js",
+    "precache-manifest.c58625031cb766c9341874241e95c688.js": "/cois/precache-manifest.c58625031cb766c9341874241e95c688.js",
     "service-worker.js": "/cois/service-worker.js",
     "static/css/2.ac1ab58b.chunk.css.map": "/cois/static/css/2.ac1ab58b.chunk.css.map",
     "static/css/main.b2644fec.chunk.css.map": "/cois/static/css/main.b2644fec.chunk.css.map",
@@ -35,6 +35,6 @@
     "static/css/2.ac1ab58b.chunk.css",
     "static/js/2.c37857d5.chunk.js",
     "static/css/main.b2644fec.chunk.css",
-    "static/js/main.a71649ad.chunk.js"
+    "static/js/main.725367d6.chunk.js"
   ]
 }
