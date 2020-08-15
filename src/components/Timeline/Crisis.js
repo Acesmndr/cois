@@ -29,7 +29,7 @@ const CRISIS_DAY_ONE = [{
     <ChannelImage name='FatalJay' />
   </>
 }, {
-  from: 'Sat, 22 Aug 2020 13:00:00 GMT-0400',
+  from: 'Sat, 22 Aug 2020 12:45:00 GMT-0400',
   to: 'Sat, 22 Aug 2020 15:00:00 GMT-0400',
   title: 'DC FANDOME WATCH PARTY',
   subtitle: 'Featuring: Strong Arm flix, Subjective Reviews, Sylabdul Inc, Zeeverfett, Zod Writer, Nerdy in Many Ways, Nickatina, Fatal Jay, The WatchTower Jeffery Warfield, KuziCast and More!!',
@@ -53,7 +53,7 @@ const CRISIS_DAY_ONE = [{
   image: <>
     <ChannelImage name='NerdyInManyWays' type='png' />
   </>,
-  description: 'Until the end of hall of hero\'s panel'
+  description: 'Until the end of hall of heroes panel'
 }, {
   from: 'Sat, 22 Aug 2020 18:00:00 GMT-0400',
   to: 'Sat, 22 Aug 2020 20:00:00 GMT-0400',
