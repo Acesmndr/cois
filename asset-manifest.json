@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cois/static/css/main.b2644fec.chunk.css",
+    "main.js": "/cois/static/js/main.3f386b0c.chunk.js",
+    "main.js.map": "/cois/static/js/main.3f386b0c.chunk.js.map",
+    "runtime-main.js": "/cois/static/js/runtime-main.c17b4a98.js",
+    "runtime-main.js.map": "/cois/static/js/runtime-main.c17b4a98.js.map",
+    "static/css/2.ac1ab58b.chunk.css": "/cois/static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.68e58157.chunk.js": "/cois/static/js/2.68e58157.chunk.js",
+    "static/js/2.68e58157.chunk.js.map": "/cois/static/js/2.68e58157.chunk.js.map",
+    "index.html": "/cois/index.html",
+    "precache-manifest.d25a58a58224178d73d085850327b003.js": "/cois/precache-manifest.d25a58a58224178d73d085850327b003.js",
+    "service-worker.js": "/cois/service-worker.js",
+    "static/css/2.ac1ab58b.chunk.css.map": "/cois/static/css/2.ac1ab58b.chunk.css.map",
+    "static/css/main.b2644fec.chunk.css.map": "/cois/static/css/main.b2644fec.chunk.css.map",
+    "static/js/2.68e58157.chunk.js.LICENSE.txt": "/cois/static/js/2.68e58157.chunk.js.LICENSE.txt",
+    "static/media/4Nerds.jpg": "/cois/static/media/4Nerds.992d3132.jpg",
+    "static/media/4Nerds.png": "/cois/static/media/4Nerds.a1f872e3.png",
+    "static/media/FatalJay.jpg": "/cois/static/media/FatalJay.ba24deac.jpg",
+    "static/media/FilmGob.png": "/cois/static/media/FilmGob.0d878acd.png",
+    "static/media/FilmGob.jpg": "/cois/static/media/FilmGob.a53b0ef1.jpg",
+    "static/media/MadMaxMandalorian.jpg": "/cois/static/media/MadMaxMandalorian.5fcfbf9f.jpg",
+    "static/media/NerdyInManyWays.png": "/cois/static/media/NerdyInManyWays.5b608f3f.png",
+    "static/media/NickatinaShow.png": "/cois/static/media/NickatinaShow.122f2158.png",
+    "static/media/PoindexterLounge.jpg": "/cois/static/media/PoindexterLounge.93479f9f.jpg",
+    "static/media/SubjectiveReviews.jpg": "/cois/static/media/SubjectiveReviews.044b1522.jpg",
+    "static/media/SubjectiveReviews.png": "/cois/static/media/SubjectiveReviews.942ddd33.png",
+    "static/media/Zeeverfet.jpg": "/cois/static/media/Zeeverfet.264b1b6b.jpg",
+    "static/media/crisis.png": "/cois/static/media/crisis.c7495260.png",
+    "static/media/crisislogo.jpg": "/cois/static/media/crisislogo.9610a4de.jpg",
+    "static/media/dcfandome.png": "/cois/static/media/dcfandome.64a81290.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17b4a98.js",
+    "static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.68e58157.chunk.js",
+    "static/css/main.b2644fec.chunk.css",
+    "static/js/main.3f386b0c.chunk.js"
+  ]
+}
