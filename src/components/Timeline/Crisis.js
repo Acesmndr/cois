@@ -42,9 +42,9 @@ const CRISIS_DAY_ONE = [{
 }, {
   from: 'Sat, 22 Aug 2020 15:00:00 GMT-0400',
   to: 'Sat, 22 Aug 2020 17:00:00 GMT-0400',
-  title: 'Zeeverfet',
+  title: 'Zeeverfett',
   image: <>
-    <ChannelImage name='Zeeverfet' />
+    <ChannelImage name='Zeeverfett' />
   </>,
 }, {
   from: 'Sat, 22 Aug 2020 17:00:00 GMT-0400',
