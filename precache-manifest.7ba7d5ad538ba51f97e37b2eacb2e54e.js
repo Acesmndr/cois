@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fa3027e9cdb56f6a1371ea275c53fe6",
+    "revision": "b2fca99672e5fbcfe0cef23a2e0141aa",
     "url": "/cois/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cois/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "7eff7832f6c1b322b5f0",
+    "revision": "e76ec3c80c620f7e10ae",
     "url": "/cois/static/css/main.68d45982.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cois/static/js/2.c37857d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eff7832f6c1b322b5f0",
-    "url": "/cois/static/js/main.725367d6.chunk.js"
+    "revision": "e76ec3c80c620f7e10ae",
+    "url": "/cois/static/js/main.796e2e9c.chunk.js"
   },
   {
     "revision": "3d7ce40a2d5389a1d600",
@@ -73,7 +73,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "264b1b6badb864a88f39b363f1f48975",
-    "url": "/cois/static/media/Zeeverfet.264b1b6b.jpg"
+    "url": "/cois/static/media/Zeeverfett.264b1b6b.jpg"
   },
   {
     "revision": "c74952601b317702defd120e4d2273a6",
