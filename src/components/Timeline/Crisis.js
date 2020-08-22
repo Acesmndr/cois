@@ -6,7 +6,7 @@ const CRISIS_DAY_ONE = [{
   from: 'Sat, 22 Aug 2020 07:00:00 GMT-0400',
   to: 'Sat, 22 Aug 2020 09:00:00 GMT-0400',
   title: 'Subjective Reviews',
-  subtitle: 'Featuring: Scott Fowler, Prime_76 and Mr. West Ashely',
+  subtitle: 'Featuring: Prime_76 and Mr. West Ashely',
   image: <>
     <ChannelImage name='SubjectiveReviews' type='png' />
   </>
@@ -24,7 +24,7 @@ const CRISIS_DAY_ONE = [{
   from: 'Sat, 22 Aug 2020 11:00:00 GMT-0400',
   to: 'Sat, 22 Aug 2020 12:45:00 GMT-0400',
   title: 'Fatal Jay show',
-  subtitle: 'Featuring: Fanaddict of film and Skeletor',
+  subtitle: 'Featuring: FilmGob, Nickatina, Zeeverfett and Scott Fowler',
   image: <>
     <ChannelImage name='FatalJay' />
   </>
